@@ -6,7 +6,7 @@ I have created simple calender application that allows a user to save events for
 ### Deployment Link
 
 ### Website Screenshot
-![Application png](https://user-images.githubusercontent.com/54869821/183218756-3ebca750-3be7-4c55-8590-7700d2d232c5.png)
+![Application png](https://user-images.githubusercontent.com/54869821/183219586-19af0626-d95e-4f09-a3b8-8f9560d1ec3d.png)
 
 ### Built With
 - CSS
